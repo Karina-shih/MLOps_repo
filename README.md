@@ -1,1 +1,3 @@
-# MLOps
+# Linear Regression Model
+
+The one-feature linear regression model achieved the best performance using `x4`, with an `R^2` score of 0.269, and `MSE` of 76.85. The two-feature linear regression model achieved the best performance using the combination of `x3`, `x4`, with an `R^2` score of 0.524, and `MSE` of 50.03. Because the two-feature model has a higher `R^2` score and lower `MSE`, it performs better than the one-feature model.
